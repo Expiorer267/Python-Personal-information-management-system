@@ -93,7 +93,7 @@ graph TD;
 
 [![pF1TouQ.png](https://s11.ax1x.com/2024/02/07/pF1TouQ.png)](https://imgse.com/i/pF1TouQ)
 
-## 、如何下载？
+## 六、如何下载？
 - 在仓库中直接下载：
   - 1.打开dist文件夹
       - 下载exe文件
